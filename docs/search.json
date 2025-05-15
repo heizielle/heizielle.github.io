@@ -2,15 +2,127 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Homepage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "“Welcome to my personal website!”\nHi! I’m Hazel, a 3rd-year Applied Computing (Fintech) student with a passion for working on projects that challenge me to think deeply and innovate practically."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "FYP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "During my final year project, I developed two Robotic Process Automation (RPA) systems for Nanyang Polytechnic’s administrative office. The first system automated the sorting of incoming emails to streamline their internal communication workflow. The second system handled the registration of graduating students by generating and distributing personalized QR codes, which were then used for efficient check-in during the graduation ceremony.\nIn addition to these projects, my supervisor nominated our team to participate in a competition. For this, we designed and built a robotic toy intended for children. The robot was capable of analyzing children’s verbal responses to detect emotional cues, particularly those that children might be hesitant to express openly to parents or teachers. The goal was to create a supportive and empathetic companion that could assist caregivers in better understanding a child’s emotional state."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Welcome to my little corner of creativity! Here are two hobbies that bring me a lot of joy: crocheting and baking!"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "On this page, I’ll reflect on the use of GenAI in this assessment. I will discuss how I used GenAI to assist me, what I learned from it, and how it has impacted my work."
+  },
+  {
+    "objectID": "reflection.html#what-is-the-genai-tool-used",
+    "href": "reflection.html#what-is-the-genai-tool-used",
+    "title": "Reflection on the use of GenAI",
+    "section": "What is the GenAI tool used?",
+    "text": "What is the GenAI tool used?\nI used ChatGPT and Github Copilot. The reason for using the former is because it’s the GenAI tool I am most familiar with, and also have a subscription that have yet to expire, whereas the reason for using the latter is because it is integrated into RStudio, which I am using to write this report."
+  },
+  {
+    "objectID": "reflection.html#how-did-i-use-it",
+    "href": "reflection.html#how-did-i-use-it",
+    "title": "Reflection on the use of GenAI",
+    "section": "How did I use it?",
+    "text": "How did I use it?\nI made use of ChatGPT to help me with further enriching the pages and to ideate on what to include for the content. For example, I can have a vaue idea of what I’d like to write about, but I am not sure how to phrase it. I can ask ChatGPT to help me with that."
+  },
+  {
+    "objectID": "reflection.html#what-are-beneficial-about-the-tool",
+    "href": "reflection.html#what-are-beneficial-about-the-tool",
+    "title": "Reflection on the use of GenAI",
+    "section": "What are beneficial about the tool?",
+    "text": "What are beneficial about the tool?\nI find that the tool is beneficial for fine-tuning ideas that are originally formed by the users more than curating ideas for the users. In my opinion, the tool helps to reduce time wasted on tasks that are not as important, such as formatting and phrasing."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Homepage",
+    "section": "",
+    "text": "Major: Applied Computing (Fintech)\nInterests: Data science, Machine learning, Fintech innovation\nSkills: Python, R, SQL, Tableau, TensorFlow"
+  },
+  {
+    "objectID": "index.html#heres-a-little-more-about-me",
+    "href": "index.html#heres-a-little-more-about-me",
+    "title": "Homepage",
+    "section": "",
+    "text": "My photo\n\n\n\n“This photo was taken during a recent tech conference I attended!”"
+  },
+  {
+    "objectID": "index.html#a-short-video-that-inspires-me",
+    "href": "index.html#a-short-video-that-inspires-me",
+    "title": "Homepage",
+    "section": "🎞️ A Short Video That Inspires Me:",
+    "text": "🎞️ A Short Video That Inspires Me:"
+  },
+  {
+    "objectID": "index.html#about-me-d",
+    "href": "index.html#about-me-d",
+    "title": "Homepage",
+    "section": "",
+    "text": "Major: Applied Computing (Fintech)\nInterests: Data science, Machine learning\nSkills: Python, R, SQL, Tableau, TensorFlow"
+  },
+  {
+    "objectID": "index.html#check-out-my-dog-8",
+    "href": "index.html#check-out-my-dog-8",
+    "title": "Homepage",
+    "section": "",
+    "text": "Picture of Haku\n\n\n\n“Bork!”"
+  },
+  {
+    "objectID": "index.html#tdlr",
+    "href": "index.html#tdlr",
+    "title": "Homepage",
+    "section": "TDLR:",
+    "text": "TDLR:\n\nMajor: Applied Computing (Fintech)\nInterests: Data analysis, Machine learning"
+  },
+  {
+    "objectID": "index.html#video-that-piqued-my-interest",
+    "href": "index.html#video-that-piqued-my-interest",
+    "title": "Homepage",
+    "section": "Video That Piqued My Interest:",
+    "text": "Video That Piqued My Interest:"
+  },
+  {
+    "objectID": "hobbies.html#crocheting",
+    "href": "hobbies.html#crocheting",
+    "title": "Hobbies",
+    "section": "Crocheting",
+    "text": "Crocheting\nI love crocheting because it allows me to create thoughtful, handmade gifts for my loved ones. It also encourages me to think creatively and solve problems visually as I work through different patterns\n\nSome of my crochet creations:\n\n\n\n\nMy crochet works"
+  },
+  {
+    "objectID": "hobbies.html#baking",
+    "href": "hobbies.html#baking",
+    "title": "Hobbies",
+    "section": "Baking",
+    "text": "Baking\nBaking has been a passion of mine since childhood. While I lacked the tools and ingredients to go beyond basic recipes in the past, I now enjoy exploring more complex and technical desserts, as well as to tackle the desserts that I had failed baking in the past"
+  },
+  {
+    "objectID": "reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "href": "reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "title": "Reflection on the use of GenAI",
+    "section": "What do you think are challenging about the tool?",
+    "text": "What do you think are challenging about the tool?\nI think there are 2 prominent challenges about using the tool: 1. Over-reliance on GenAI over-time. 2. Difficulty in crafting the prompt that would meet unique requirements of more complicated tasks."
+  },
+  {
+    "objectID": "reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "href": "reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "How do you think will GenAI tools assist you for your future study or work?",
+    "text": "How do you think will GenAI tools assist you for your future study or work?\nGenAI tools will significantly help in reduction of time spent on more mundane tasks and would also be a great learning tool when I’m too overwhelmed with new information required to pick up a new skill."
   }
 ]
