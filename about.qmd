@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "FYP Project"
 ---
 
-About this site
+During my final year project, I developed two Robotic Process Automation (RPA) systems for Nanyang Polytechnic's administrative office. The first system automated the sorting of incoming emails to streamline their internal communication workflow. The second system handled the registration of graduating students by generating and distributing personalized QR codes, which were then used for efficient check-in during the graduation ceremony.
 
-```{r}
-1 + 1
-```
+In addition to these projects, my supervisor nominated our team to participate in a competition. For this, we designed and built a robotic toy intended for children. The robot was capable of analyzing children's verbal responses to detect emotional cues—particularly those that children might be hesitant to express openly to parents or teachers. The goal was to create a supportive and empathetic companion that could assist caregivers in better understanding a child’s emotional state.

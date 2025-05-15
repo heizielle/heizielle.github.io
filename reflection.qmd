@@ -1,0 +1,22 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+On this page, I'll reflect on the use of GenAI in this assessment. I will discuss how I used GenAI to assist me, what I learned from it, and how it has impacted my work.
+
+## What is the GenAI tool used?
+I used ChatGPT and Github Copilot. The reason for using the former is because it's the GenAI tool I am most familiar with, and also have a subscription that have yet to expire, whereas the reason for using the latter is because it is integrated into RStudio, which I am using to write this report.
+
+## How did I use it?
+I made use of ChatGPT to help me with further enriching the pages and to ideate on what to include for the content. For example, I can have a vaue idea of what I'd like to write about, but I am not sure how to phrase it. I can ask ChatGPT to help me with that.
+
+## What are beneficial about the tool?
+I find that the tool is beneficial for fine-tuning ideas that are originally formed by the users more than curating ideas for the users. In my opinion, the tool helps to reduce time wasted on tasks that are not as important, such as formatting and phrasing.
+
+## What do you think are challenging about the tool?
+I think there are 2 prominent challenges about using the tool:
+1. Over-reliance on GenAI over-time.
+2. Difficulty in crafting the prompt that would meet unique requirements of more complicated tasks.
+
+## How do you think will GenAI tools assist you for your future study or work?
+GenAI tools will significantly help in reduction of time spent on more mundane tasks and would also be a great learning tool when I'm too overwhelmed with new information required to pick up a new skill.

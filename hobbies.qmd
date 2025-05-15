@@ -1,0 +1,23 @@
+---
+title: "Hobbies"
+---
+
+Welcome to my little corner of creativity! Here are two hobbies that bring me a lot of joy: **crocheting** and **baking**!
+
+---
+
+## Crocheting
+
+I love crocheting because it allows me to create thoughtful, handmade gifts for my loved ones. It also encourages me to think creatively and solve problems visually as I work through different patterns
+
+### Some of my crochet creations:
+
+![](imgs/crochet1.jpg){width=80%}
+
+![My crochet works](imgs/crochet2.jpg){width=80%}
+
+---
+
+## Baking
+
+Baking has been a passion of mine since childhood. While I lacked the tools and ingredients to go beyond basic recipes in the past, I now enjoy exploring more complex and technical desserts, as well as to tackle the desserts that I had failed baking in the past

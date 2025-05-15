@@ -1,11 +1,20 @@
 ---
-title: "temp_website"
+title: "Homepage"
 ---
 
-This is a Quarto website.
+> *“Welcome to my personal website!”*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I'm *Hazel*, a 3rd-year Applied Computing (Fintech) student with a passion for working on projects that challenge me to think deeply and innovate practically.
 
-```{r}
-1 + 1
-```
+---
+
+## TDLR:
+
+- **Major**: Applied Computing (Fintech)
+- **Interests**: Data analysis, Machine learning
+
+---
+
+## Video That Piqued My Interest:
+
+{{< video https://www.youtube.com/watch?v=aircAruvnKk width="600" height="400" >}}
